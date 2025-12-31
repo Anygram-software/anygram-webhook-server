@@ -10,6 +10,10 @@
 git clone https://github.com/Anygram-software/anygram-webhook-server.git
 ```
 
+```bash
+cd anygram-webhook-server
+```
+
 Установка зависимостей.
 В репозитории есть requirements.txt и pyproject.toml, можно ставить так:
 
