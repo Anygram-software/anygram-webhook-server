@@ -1,0 +1,10 @@
+[project]
+name = "anygram-webhook-server"
+version = "0.1.0"
+description = "Anygram webhook server"
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi>=0.110.0",
+  "uvicorn[standard]>=0.23.0",
+  "cryptography>=41.0.0",
+]
